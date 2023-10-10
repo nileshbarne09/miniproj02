@@ -1,7 +1,8 @@
 #+title: Setup a basic pipeline using CI/CD tools
 
 * Introduction
-** Basic MLOps Pipeline main
+
+** Basic MLOps Pipeline feature01 main
 
 Data Collection -> Pre-processing -> Model Training -> Model Testing -> Deployment -> Monitoring
 
